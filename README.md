@@ -1,1 +1,1 @@
-https://Margarita1007.github.io/rsschool-cv/cv
+https://Margarita1007.github.io/rsschool-cv/
