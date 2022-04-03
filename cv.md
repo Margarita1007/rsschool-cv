@@ -4,14 +4,15 @@
 * E-mail: [m.kenshova@mail.ru](m.kenshova@mail.ru "e-mail")
 * Discord: Margarita1007#6309
 ## Briefly about myself
-//здесь могла быть ваша реклама
+I work in the rocket-space industry as engineer, but I want to change jobs, so I'm learning JavaScript.
+My best qualities are cheerful, purposeful, logical thinking, but sometimes I can be lazy.
 ## Skills
 * HTML, CSS
 * JS
 * GIT
 * VSCode
 ## Code example
-it returns the sum of all the multiples of 3 or 5 below the number passed in:
+KATA from CODEWARS: this function returns the sum of all the multiples of 3 or 5 below the number
 ```
 function solution(number){
 let arr = [];
@@ -33,6 +34,7 @@ result = arr2.reduce((sum,current) => sum + current, 0)
 ## Education
 * University: Samara State Aerospace University, engineer
 * Courses
-  * JS at [learn.javascript.ru](learn.javascript.ru)
-## English
-A1 (Elementary)
+  * JS Manual on [learn.javascript.ru](learn.javascript.ru)
+## Language
+* English - A1 (Elementary)
+* Russian 
